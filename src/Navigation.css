@@ -1,0 +1,18 @@
+.Navigation {
+    text-align: center;
+    margin-top: 20px;
+    background-color: aliceblue;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Navigation a {
+    margin: 20px;
+    text-decoration: none;
+}
+
+.Navigation a.active {
+    font-weight: bold;
+}
